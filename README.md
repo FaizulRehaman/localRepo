@@ -1,1 +1,1 @@
-# this is a locla repo for demo
+# this is a local repo for demo
